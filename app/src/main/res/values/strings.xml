@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Android Sensors</string>
+
+    <string name="label_proximity">Temperature Sensor: %1$.2f</string>
+    <string name="label_light">Light Sensor: %1$.2f</string>
+    <string name="label_longlat">Location (Long, Lat): %1$.2f</string>
+    <string name="started_sensor_light">Light Sensor</string>
+    <string name="started_sensor_temperature">Temperature Sensor</string>
+    <string name="started_longitude_latitude">Location (Long, Lat):</string>
+    <string name="error_no_sensor">No sensor</string>
+    <string name="azimuth">Azimuth</string>
+    <string name="value_format">: %1$.2f</string>
+    <string name="pitch">Pitch</string>
+    <string name="roll">Roll</string>
+    <string name="gravity">Gravity</string>
+    <string name="no_gravity_sensor">No Gravity Sensor</string>
+    <string name="gravity_info">Change gravity value will vibrate your phone.</string>
+    <string name="rotation_value">Rotation: %s</string>
+    <string name="step_value">Step: %s</string>
+    <string name="no_game_rotation_sensor">No Game Rotation Sensor</string>
+    <string name="no_step_detector_sensor">No Step Detector Sensor</string>
+    <string name="orientation">Orientation</string>
+    <string name="string_value">: %s</string>
+    <string name="direction">Direction</string>
+    <string name="step_info">Take a run or walk to start counting</string>
+    <string name="record_to_file">Record to file</string>
+    <string name="appbar_back_button">Appbar back button</string>
+    <string name="footer">Salim Arizi \n22/501441/PTK/14730</string>
+</resources>
